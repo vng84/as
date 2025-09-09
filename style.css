@@ -1,0 +1,50 @@
+body {
+    background-color:antiquewhite;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    color: cadetblue;
+    margin-bottom: 50px;
+}
+.p1 {
+    color: rgb(179, 49, 49);
+    padding-left: 30px;
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+.p2 {
+    color: rgb(22, 182, 236);
+    padding-left: 40px;
+    font-size: x-large;
+    line-height: 1.5;
+}
+.p3 {
+    color: rgb(215, 17, 222);
+    padding-left: 40px;
+    font-size: x-large;
+    line-height: 1.5;
+}
+.p4 {
+    color: rgb(19, 194, 69);
+    padding-left: 40px;
+    font-size: x-large;
+    line-height: 1.5;
+}
+.p5 {
+     color: rgb(135, 162, 14);
+    padding-left: 40px;
+    font-size: x-large;
+    line-height: 1.5;
+}
+.p6 {
+    color: rgb(233, 144, 11);
+    padding-left: 40px;
+    font-size: x-large;
+    line-height: 1.5;
+}
+.p7 {
+    padding-left: 40px;
+    font-size: x-large;
+}
